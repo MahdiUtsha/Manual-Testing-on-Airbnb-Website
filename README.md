@@ -10,7 +10,7 @@ A manual testing is done on Airbnb website to check its some functionalities (e.
 - Property Details Page
 - User Reviews and Ratings
 
-![Screenshot 1](https://github.com/user-attachments/assets/58724a26-4e09-4065-8531-9badcb729a47)
+<img width="1920" height="997" alt="Screenshot (1061)" src="https://github.com/user-attachments/assets/99ee438f-3180-4192-a6ea-a6e41dfd5b32" />
 
 ## Technologies Used
 - **Google Sheets** 
