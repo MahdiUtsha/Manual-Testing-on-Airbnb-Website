@@ -11,4 +11,4 @@ A manual testing is done on Airbnb website to check its some functionalities (e.
 - User Reviews and Ratings
 
 ## Technologies Used
-- **Google Sheets:** 
+- **Google Sheets** 
