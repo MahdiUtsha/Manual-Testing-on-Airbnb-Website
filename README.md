@@ -9,3 +9,6 @@ A manual testing is done on Airbnb website to check its some functionalities (e.
 - Filter and Sorting Options
 - Property Details Page
 - User Reviews and Ratings
+
+## Technologies Used
+**Google Sheets:** For Documentation. 
